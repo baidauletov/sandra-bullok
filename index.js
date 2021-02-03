@@ -2,6 +2,8 @@ let date = new Date();
 let datePrototype = Object.getPrototypeOf(date)
 let list = Object.getOwnPropertyNames(datePrototype)
 
+// date 
+
 // date methods
 // console.log(list)
 
